@@ -1,4 +1,4 @@
-# SimpleWebServer
+# SimpleWebServer for HullPixelbot
 A simple web server for Wemos devices that accepts query strings and sends them to the robot
 
 You can run this program to allow yourself to control a HullPixelbot from a web browser. The server uses mDNS to advertise it's prescence on a local network. If you have a device running the Apple Bonjour service it will be able to discvoer the robot server as local.HullPixelbot
