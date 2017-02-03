@@ -9,6 +9,6 @@ The server will pass robot commands that are received out to a robot motor conto
 
 The server uses HullPixelbot Code commands to communicate with the robot. These will cause the robot pixel to change colour according to status. Red and blue flashing indicates that the robot is searching for an access point. A white pixel indicates that the mDNS server could not be started. When the robot is connected and ready to receive commands the pixel will turn green. 
 
-You can find full details of the HullPixelbot Code langauge [here:](https://github.com/HullPixelbot/HullPixelbotCode) 
+You can find full details of the HullPixelbot Code language [here:](https://github.com/HullPixelbot/HullPixelbotCode) 
 
 Rob Miles
